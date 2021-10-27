@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "corbert";
+  src: url("./fonts/Corbert-Regular.ttf");
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: #18181b;
+  font-family: "corbert", Corbert-Regular;
+}
